@@ -1,0 +1,10 @@
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\bin\Debug\netcoreapp3.1\ConsultorDeProcessos.WebAPI.exe
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\obj\Debug\netcoreapp3.1\ConsultorDeProcessos.WebAPI.csprojAssemblyReference.cache
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ConsultorDeProcessos.WebAPI.StaticWebAssets.Manifest.cache
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ConsultorDeProcessos.WebAPI.StaticWebAssets.xml
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\obj\Debug\netcoreapp3.1\ConsultorDeProcessos.WebAPI.AssemblyInfoInputs.cache
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\obj\Debug\netcoreapp3.1\ConsultorDeProcessos.WebAPI.AssemblyInfo.cs
+D:\Projetos\ConsultorDeProcessos\ConsultorDeProcessos.WebAPI\obj\Debug\netcoreapp3.1\ConsultorDeProcessos.WebAPI.RazorTargetAssemblyInfo.cache
